@@ -1,0 +1,257 @@
+
+/*font-family: 'Open Sans', sans-serif;*/
+body{
+    /*background: #ecf0f1;*/
+}
+.wrap {
+    width:  1200px;
+    border:1px solid #80808052;
+    margin:  auto;
+    font-family: 'Open Sans', sans-serif;
+}
+/*PART 1*/
+.part1 {
+    height: 310px;
+}
+
+.part1 .hey,.part2 .left {
+    width:  335px;
+    height: 100%;
+    margin-left:  90px;
+    background:  #ffcc31;
+    color:  white;
+    float:  left;
+    display:  inline-block;
+    text-align: center;
+}
+
+.hey .big {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 90px;
+    font-weight: 800;
+    margin-top: 75px;
+}
+
+.hey .small {
+    margin-top: -14px;
+    font-size: 25px;
+}
+.part1 .award {
+    width: 685px;
+    height:  100%;
+    float: left;
+    display:  inline-block;
+    font-size: 32px;
+    font-weight: 700;
+    text-align:  right;
+    color: #fbcc4b;
+}
+.award .text1 {margin-top: 110px;margin-right: 35px;}
+
+.award .text2 {
+    margin-right: 25px;
+}
+.small-square {
+    width: 90px;
+    height:  90px;
+    display: inline-block;
+    float: right;
+    margin-top: 110px;
+    background:  #ffd04f;
+}
+
+/*PART 2*/
+.part2 {
+    height:  505px;
+    background: #242a31;
+}
+
+.part2 .left {
+    background: #ddae27;
+}
+
+.part2 .left .small-rectangle, .cube1 .small-rectangle {
+    width: 65px;
+    height:  20px;
+    background:  white;
+    margin-top: 270px;
+    margin-left: 55px;
+}
+
+.part2 .left .text {
+    margin-left:  55px;
+    margin-top: 20px;
+    text-align:  left;
+    width: 220px;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+.part2 .long-rectangle {
+    width: 378px;
+    height:  20px;
+    float:  right;
+    display:  block;
+    background: #b8b5b4;
+}
+
+.part2 .right {
+    width: 685px;
+    height:  485px;
+    display:  inline-block;
+    float: left;
+    text-align:  right;
+    color:  white;
+}
+
+.part2 .right .text1 {
+    font-size: 50px;
+    margin-top: 45px;
+}
+
+.part2 .right .text3 {
+    font-size:  50px;
+    margin-top: -20px;
+}
+
+.part2 .right .text2 {
+    font-size:  90px;
+    font-weight:  800;
+    color: #fbcc4b;
+    margin-top: -20px;
+}
+
+.part2 .right .text4 {
+    float:  right;
+    width: 570px;
+    margin-top: 30px;
+    letter-spacing: 1px;
+    /* font-weight: 600; */
+}
+
+/*part3*/
+.part3 {
+    height:  880px;
+    background-image: url(../images/background.jpeg);
+    background-size: cover;
+    background-position:  center center;
+}
+
+.part3 .cube1 {
+    display: inline-block;
+    width:  335px;
+    height:  400px;
+    background-color: rgba(255,204,49,0.8);
+    margin-left:  90px;
+    color: white;
+    float:  left;
+}
+
+.part3 .cube1 .small-rectangle {
+    margin-top: 120px;
+}
+
+.cube1 .text {
+    font-size: 33px;
+    font-weight: 700;
+    float:  left;
+    width: 250px;
+    margin-top: 50px;
+    line-height: 40px;
+}
+.part3 .cube2 {
+    position:  absolute;
+    right: 90px;
+    width: 685px;
+    float: left;
+    text-align:  right;
+    color:  white;
+}
+
+.part3 .cube3-contact {
+    position:  absolute;
+    bottom:  0;
+    width:  425px;
+    float:  left;
+    height:  480px;
+    background-color: #43454a;
+}
+
+.part3 .cube4-logo {
+    position:  absolute;
+    bottom: 0;
+    left: 425px;
+    width:  775px;
+    height: 190px;
+    background-color: #466b78;
+}
+
+.cube2 .text1 {
+    font-size: 90px;
+    font-weight:  800;
+    margin-top: 50px;
+}
+.wrap-part3 {
+    position:  relative;
+    height:  880px;
+    width:  100%;
+    background-color: rgba(52, 152, 219,0.6);
+}
+.cube2 .small-rectangle {
+    width:  20px;
+    height:  65px;
+    background:  white;
+    margin-top: 10px;
+    float: right;
+    display:  block;
+}
+
+.cube2 .text2 {
+    font-size: 90px;
+    font-weight: 800;
+    margin-top: 80px;
+}
+
+.cube2 .text3, .cube2 .text4 {
+    width: 510px;
+    float:  right;
+    letter-spacing: 1px;
+    font-weight: 700;
+}
+
+.cube2 .text4 {
+    color: #242a31;
+    margin-top: 20px;
+}
+
+.cube3-contact {
+    color:  white;
+}
+.cube3-contact img {
+    width: 30px;
+    height:  30px;
+}
+
+.cube3-contact .phone, .email, .location {
+    margin-left:  90px;
+    margin-top: 40px;
+    font-size: 18px;
+}
+.cube3-contact .location {
+    margin-top: 100px;
+}
+
+.cube3-contact .website {
+    margin-left:  90px;
+    margin-top: 40px;
+    font-weight: 700;
+    font-size: 25px;
+    color: #ddae27;
+}
+.cube3-contact img {
+    margin-right: 30px;
+}
+.cube4-logo img {
+    width: 535px;
+    margin-left: 120px;
+    margin-top: 55px;
+}
