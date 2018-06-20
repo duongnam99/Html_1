@@ -6,7 +6,7 @@
 	- [chi tiết](https://github.com/colombo-trainee/trainee_2018/blob/master/frontend/simple%20pc/1671.psd)
 - Thực hiện bởi: **Dương Minh Nam**
 
-## Liến kết
+## Liên kết
 - [giao diện](https://duongnam99.github.io/Html_1/)
 ## Kiến thức nắm được
 
