@@ -7,10 +7,10 @@
 - Thực hiện bởi: **Dương Minh Nam**
 
 ## Liến kết
-- [giao diện]()
+- [giao diện](https://duongnam99.github.io/Html_1/)
 ## Kiến thức nắm được
 
-- sử dụng các thuộc tính display, float, position để căn chỉnh vị trí 
+- Sử dụng các thuộc tính display, float, position để căn chỉnh vị trí 
 
 ## Credit
 - Google font: [Open-sans](https://fonts.google.com/specimen/Open+Sans)
