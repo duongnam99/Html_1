@@ -200,7 +200,7 @@ body{
     width:  20px;
     height:  65px;
     background:  white;
-    margin-top: 10px;
+    margin-top: 25px;
     float: right;
     display:  block;
 }
@@ -208,7 +208,7 @@ body{
 .cube2 .text2 {
     font-size: 90px;
     font-weight: 800;
-    margin-top: 80px;
+    margin-top: 125px;
 }
 
 .cube2 .text3, .cube2 .text4 {
@@ -216,6 +216,7 @@ body{
     float:  right;
     letter-spacing: 1px;
     font-weight: 700;
+    margin-top: 10px;
 }
 
 .cube2 .text4 {
