@@ -42,9 +42,10 @@ body{
     float: left;
     display:  inline-block;
     font-size: 32px;
-    font-weight: 700;
+    font-weight: 800;
     text-align:  right;
     color: #fbcc4b;
+    letter-spacing: 1px;
 }
 .award .text1 {margin-top: 110px;margin-right: 35px;}
 
@@ -69,7 +70,6 @@ body{
 .part2 .left {
     background: #ddae27;
 }
-
 .part2 .left .small-rectangle, .cube1 .small-rectangle {
     width: 65px;
     height:  20px;
@@ -87,7 +87,7 @@ body{
     letter-spacing: 1px;
 }
 .part2 .long-rectangle {
-    width: 378px;
+    width: 375px;
     height:  20px;
     float:  right;
     display:  block;
@@ -173,7 +173,7 @@ body{
     width:  425px;
     float:  left;
     height:  480px;
-    background-color: #43454a;
+    background-color: #232e30;
 }
 
 .part3 .cube4-logo {
@@ -182,7 +182,7 @@ body{
     left: 425px;
     width:  775px;
     height: 190px;
-    background-color: #466b78;
+    background-color: #386678;
 }
 
 .cube2 .text1 {
@@ -253,5 +253,5 @@ body{
 .cube4-logo img {
     width: 535px;
     margin-left: 120px;
-    margin-top: 55px;
+    margin-top: 60px;
 }
